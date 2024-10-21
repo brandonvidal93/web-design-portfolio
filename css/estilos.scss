@@ -1,0 +1,176 @@
+@import './colors.scss';
+
+.lineas-fondo-oscuro-1 {
+  background-image: url("../img/fondos/lineas-fondo-oscuro.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.lineas-fondo-claro-1 {
+  background-image: url("../img/fondos/lineas-fondo-claro.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fondo-logo-1 {
+  background-image: url("../img/fondos/logo-fondo-1.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+.fondo-informacion-1 {
+  background-image: url("../img/fondos/fondo-presentacion-1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.fondo-trabajo-1 {
+  background-image: url("../img/fondos/fondo-trabajo-1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.fondo-tips-1 {
+  background-image: url("../img/fondos/fondo-tips-1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.fondo-conoceme-1 {
+  background-image: url("../img/fondos/fondo-conoceme-1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.fondo-habilidades-1 {
+  background-image: url("../img/fondos/fondo-habilidades-1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.fondo-formuario-1 {
+  background-image: url("../img/fondos/fondo-formulario-1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.fondo-hdv-1 {
+  background-image: url("../img/fondos/fondo-hdv.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.menuPpal, .linkGnr {
+  .link-1 {
+    &:hover {
+      color: $color1;
+      transition: all 0.3s ease-in-out;
+    }
+  }
+
+  .active-1 {
+    color: $color1;
+  }
+}
+
+.linkRedes {
+  .link-1 {
+    color: $color1;
+    &:hover {
+      color: $color3;
+      transition: all 0.3s ease-in-out;
+    }
+  }
+
+  .link-2 {
+    color: $color5;
+    &:hover {
+      color: $color4;
+      transition: all 0.3s ease-in-out;
+    }
+  }
+
+  .link-3 {
+    color: $color1;
+    &:hover {
+      color: $color1;
+      transition: all 0.3s ease-in-out;
+    }
+  }
+}
+
+form {
+  .btnEnviar {
+    background-color: $color3;
+    color: $color1;
+    font-weight: 700;
+    &:hover {
+      background-color: $color2;
+      color: $color5;
+    }
+  }
+}
+
+// MENU
+.menu-responsive-1 {
+  outline: 0px!important;
+}
+
+.linkMore-1 {
+  color: $color3;
+  &:hover {
+    color: $color2;
+    transition: all 0.3s ease-in-out;
+  }
+}
+
+.linkMore-2 {
+  color: $color1;
+  &:hover {
+    color: $color3;
+    transition: all 0.3s ease-in-out;
+  }
+}
+
+.linkMore-3 {
+  color: $color1;
+  &:hover {
+    color: $color4;
+    transition: all 0.3s ease-in-out;
+  }
+}
+
+.progress {
+  background-color: transparent;
+  border-radius: 0px;
+  height: 2.3rem;
+  .progress-bar {
+    background-color: $color2;
+    padding: 1rem;
+    p {
+      font-size: 1.3em;
+    }
+  }
+}
+
+.boxTip-1 {
+  border-radius: 10px;
+  padding: 3rem 1.5rem;
+}
+
+@media screen and (max-width: 768px) and (min-width: 320px) {
+
+}
+@media screen and (min-width: 769px) {
+
+}

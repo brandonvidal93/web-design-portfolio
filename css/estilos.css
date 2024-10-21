@@ -1,0 +1,69 @@
+.color-1 { color: #F3F9F9; }
+
+.color-2 { color: #809FBD; }
+
+.color-3 { color: #F87F01; }
+
+.color-4 { color: #33434F; }
+
+.color-5 { color: #232B34; }
+
+.bgColor-1 { background-color: #F3F9F9; }
+
+.bgColor-2 { background-color: #809FBD; }
+
+.bgColor-3 { background-color: #F87F01; }
+
+.bgColor-4 { background-color: #33434F; }
+
+.bgColor-5 { background-color: #232B34; }
+
+.lineas-fondo-oscuro-1 { background-image: url("../img/fondos/lineas-fondo-oscuro.png"); background-position: center; background-repeat: no-repeat; background-size: cover; }
+
+.lineas-fondo-claro-1 { background-image: url("../img/fondos/lineas-fondo-claro.png"); background-position: center; background-repeat: no-repeat; background-size: cover; }
+
+.fondo-logo-1 { background-image: url("../img/fondos/logo-fondo-1.png"); background-position: center; background-repeat: no-repeat; background-size: auto; }
+
+.fondo-informacion-1 { background-image: url("../img/fondos/fondo-presentacion-1.jpg"); background-repeat: no-repeat; background-size: cover; background-position: center; }
+
+.fondo-trabajo-1 { background-image: url("../img/fondos/fondo-trabajo-1.jpg"); background-repeat: no-repeat; background-size: cover; background-position: center; }
+
+.fondo-tips-1 { background-image: url("../img/fondos/fondo-tips-1.jpg"); background-repeat: no-repeat; background-size: cover; background-position: center; }
+
+.fondo-conoceme-1 { background-image: url("../img/fondos/fondo-conoceme-1.png"); background-repeat: no-repeat; background-size: cover; background-position: center; }
+
+.fondo-habilidades-1 { background-image: url("../img/fondos/fondo-habilidades-1.png"); background-repeat: no-repeat; background-size: cover; background-position: center; }
+
+.fondo-formuario-1 { background-image: url("../img/fondos/fondo-formulario-1.jpg"); background-repeat: no-repeat; background-size: cover; background-position: center; }
+
+.fondo-hdv-1 { background-image: url("../img/fondos/fondo-hdv.jpg"); background-repeat: no-repeat; background-size: cover; background-position: center; }
+
+.menuPpal .link-1:hover, .linkGnr .link-1:hover { color: #F3F9F9; -webkit-transition: all 0.3s ease-in-out; transition: all 0.3s ease-in-out; }
+.menuPpal .active-1, .linkGnr .active-1 { color: #F3F9F9; }
+
+.linkRedes .link-1 { color: #F3F9F9; }
+.linkRedes .link-1:hover { color: #F87F01; -webkit-transition: all 0.3s ease-in-out; transition: all 0.3s ease-in-out; }
+.linkRedes .link-2 { color: #232B34; }
+.linkRedes .link-2:hover { color: #33434F; -webkit-transition: all 0.3s ease-in-out; transition: all 0.3s ease-in-out; }
+.linkRedes .link-3 { color: #F3F9F9; }
+.linkRedes .link-3:hover { color: #F3F9F9; -webkit-transition: all 0.3s ease-in-out; transition: all 0.3s ease-in-out; }
+
+form .btnEnviar { background-color: #F87F01; color: #F3F9F9; font-weight: 700; }
+form .btnEnviar:hover { background-color: #809FBD; color: #232B34; }
+
+.menu-responsive-1 { outline: 0px !important; }
+
+.linkMore-1 { color: #F87F01; }
+.linkMore-1:hover { color: #809FBD; -webkit-transition: all 0.3s ease-in-out; transition: all 0.3s ease-in-out; }
+
+.linkMore-2 { color: #F3F9F9; }
+.linkMore-2:hover { color: #F87F01; -webkit-transition: all 0.3s ease-in-out; transition: all 0.3s ease-in-out; }
+
+.linkMore-3 { color: #F3F9F9; }
+.linkMore-3:hover { color: #33434F; -webkit-transition: all 0.3s ease-in-out; transition: all 0.3s ease-in-out; }
+
+.progress { background-color: transparent; border-radius: 0px; height: 2.3rem; }
+.progress .progress-bar { background-color: #809FBD; padding: 1rem; }
+.progress .progress-bar p { font-size: 1.3em; }
+
+.boxTip-1 { border-radius: 10px; padding: 3rem 1.5rem; }
